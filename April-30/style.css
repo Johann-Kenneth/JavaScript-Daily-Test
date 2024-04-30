@@ -1,0 +1,28 @@
+#container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#card{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+}
+#display-area{
+    background-color: black;
+    width: 200px;
+    height: 50px;
+}
+#buttons{
+    display: flex;
+    gap: 20px;
+    
+
+}
+button{
+    padding: 20px;
+    
+}
