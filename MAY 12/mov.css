@@ -1,0 +1,24 @@
+.container h1{
+    text-align: center;
+}
+.genre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+#Drama{
+    height: 70px;
+    width: 500px;
+    background-color: bisque;
+}
+#Comedy{
+    height: 70px;
+    width: 500px;
+    background-color: bisque;
+}
+#Action{
+    height: 70px;
+    width: 500px;
+    background-color: bisque;
+}
